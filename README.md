@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arquero99
-- 👀 I’m interested in AI, hardware design and digital art.
+- 👀 I’m interested in AI, hardware design, robotics and digital art.
 - 🌱 I’m currently enroled in PhD program of Computer Engineering at Polytechnic Univerity of Madrid (UPM)
 - 💞️ I’m looking to collaborate on AI projercts involving artificial vision, genetic algorithms, neural networks... and Hardare projects using VHDL on FPGAs, Arduino, ESP32...
 - 📫 How to reach me : j.arquerog@gmail.com / j.arquero@upm.es
